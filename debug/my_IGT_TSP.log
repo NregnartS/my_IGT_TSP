@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (G:/Qt/5.14.2/msvc2017_64/bin/qmake)
+  mainwindow.cpp
+C:\Users\75851\Desktop\Graduation_project\my_IGT_TSP\unit.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\75851\Desktop\Graduation_project\my_IGT_TSP\group.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  my_IGT_TSP.vcxproj -> C:\Users\75851\Desktop\Graduation_project\my_IGT_TSP\debug\my_IGT_TSP.exe

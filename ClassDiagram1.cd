@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Unit">
+    <Position X="1.25" Y="7.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAIAICAAIgAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drawingBoard">
+    <Position X="8.5" Y="2.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAEAAABAACAAIgAAAABAAAAAIACAAAAgQ=</HashCode>
+      <FileName>drawingboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group">
+    <Position X="8" Y="7.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>QBQAAmHBAQQEAAAIBUCAIAgAAAQhAEQAABggAEQAAAg=</HashCode>
+      <FileName>group.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow">
+    <Position X="1.25" Y="3.75" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAEAIAAEAAIAAAAAAAAAAIAgAAAAAEAEA=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QWidget" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hA6pAGgYqICSoYVAaL8yqpBimu1GwLWO4PBqCgXdwII=</HashCode>
+      <FileName>G:\Qt\5.14.2\msvc2017_64\include\QtWidgets\qwidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QMainWindow" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoACQgKYCA0hRAgRkKBY4oAAABEAABuBggAgIAMgACA=</HashCode>
+      <FileName>G:\Qt\5.14.2\msvc2017_64\include\QtWidgets\qmainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QThread" Collapsed="true">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEwAASAQAAAFISBAQAAAEAAQIBAIUAABRQKQABEA=</HashCode>
+      <FileName>G:\Qt\5.14.2\msvc2017_64\include\QtCore\qthread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
